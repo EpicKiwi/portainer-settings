@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Archlinux",
+    "description": "Un système d'exploitation en rolling release",
+    "categories": ["OS"],
+    "platform": "linux",
+    "logo": "https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/600px-Arch-linux-logo.png",
+    "image": "izone/arm:archlinux",
+    "ports": [],
+    "volumes": []
+  }
+]
